@@ -1,0 +1,3 @@
+/home/sofia/Documents/Mecanum-Wheel-Robot/cmake-build-debug/CMakeFiles/Mecanum_Wheel_Robot.dir
+/home/sofia/Documents/Mecanum-Wheel-Robot/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sofia/Documents/Mecanum-Wheel-Robot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
